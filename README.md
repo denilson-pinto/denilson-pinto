@@ -14,8 +14,8 @@
 -->
 <div>
   <a href="https://github.com/denilson-pinto">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=denilson-pinto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="denilson-pinto" />
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson-pinto&layout=compact&langs_count=16&theme=github_dark" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=denilson-pinto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="denilson-pinto" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson-pinto&layout=compact&langs_count=16&theme=github_dark" />
 </div>
 
 
