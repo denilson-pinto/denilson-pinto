@@ -15,8 +15,8 @@
 <div>
 <p align="center">
   <a href="https://github.com/denilson-pinto">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denilson-pinto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="denilson-pinto" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denilson-pinto&layout=compact&card_width=380&langs_count=6&theme=dark" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denilson-pinto&show_icons=true&text_color=F8F8FF&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="denilson-pinto" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denilson-pinto&text_color=F8F8FF&bg_color=00000000&hide_border=true&layout=compact&card_width=380&langs_count=6" />
     </p>
 </div>
 
